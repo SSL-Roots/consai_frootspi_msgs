@@ -1,5 +1,7 @@
 # consai_frootspi_msgs
 
+[![build](https://github.com/SSL-Roots/consai_frootspi_msgs/actions/workflows/build.yaml/badge.svg?branch=main)](https://github.com/SSL-Roots/consai_frootspi_msgs/actions/workflows/build.yaml)
+
 [CON-SAI](https://github.com/SSL-Roots/consai_ros2)
 と
 [FrootsPi](https://github.com/SSL-Roots/FrootsPi)
